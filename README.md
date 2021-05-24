@@ -7,18 +7,18 @@
  pkg install python2
 ```
 ```
- git clone 
+ git clone https://github.com/darkhunter141/Deface-Page-Generator
 ```
 ```
- cd 
+ cd Deface-Page-Generator
 ```
 ```
- python2 
+ python2 daface.py
 ```
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python2 && git clone  && cd  && python2 
+pkg install python2 && git clone https://github.com/darkhunter141/Deface-Page-Generator && cd Deface-Page-Generator && python2 deface.py
 
 ```
 <br>
